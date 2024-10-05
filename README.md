@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1cx421f7Yp/](https://www.bilibili.com/video/BV1cx421f7Yp/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的商城管理系统(源代码+数据库)127
 
@@ -90,7 +90,7 @@
 ## 五、浏览地址
 
 前台访问地址：http://localhost:8080/
-- 用户账号/密码：931708230@qq.com/123456
+- 用户账号/密码：1556708905@qq.com/123456
 - 管理员账号/密码：admin@qq.com/admin
 
 ## 六、部署教程
